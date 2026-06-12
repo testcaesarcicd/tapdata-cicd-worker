@@ -191,4 +191,3 @@ fi
 
 echo ""
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] === Start and Publish Complete ==="
-
